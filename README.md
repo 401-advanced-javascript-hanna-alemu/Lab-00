@@ -9,7 +9,7 @@
 
 * [travis](https://travis-ci.com/401-advanced-javascript-hanna-alemu/Lab-00/builds/124437383)
 
-* [front-end](https://hanna-alemu-lab-00.herokuapp.com/)
+* [front-end](https://lab00-hanna-alemu-try2.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](https://hanna-alemu-lab-00.herokuapp.com/docs)
