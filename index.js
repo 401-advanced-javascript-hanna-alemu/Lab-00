@@ -30,4 +30,4 @@ function requestHandler(req,res) {
   res.end();
 }
 
-app.listen(process.env.PORT, () => console.log('server up') );
+app.listen(3000, () => console.log('server up') );
