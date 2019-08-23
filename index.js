@@ -12,7 +12,6 @@ const pol = require('./pol.js');
 
 const app = express();
 
-app.use('/docs', express.static('./docs'));
 
 /**
  * / Request Handler (All Routes)
@@ -21,6 +20,7 @@ app.use('/docs', express.static('./docs'));
  */
 
 app.get('/', requestHandler);
+app.use('/docs', express.static('./docs'));
 
 function requestHandler(req,res) {
   res.setHeader('Content-Type', 'text/html');
