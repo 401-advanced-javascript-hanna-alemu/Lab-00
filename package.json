@@ -20,5 +20,17 @@
   "dependencies": {
     "express": "^4.17.1",
     "jsdoc": "^3.6.3"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-hanna-alemu/Lab-00.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-hanna-alemu/Lab-00/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-hanna-alemu/Lab-00#readme"
 }
